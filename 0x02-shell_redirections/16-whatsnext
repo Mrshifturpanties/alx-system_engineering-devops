@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp -a 3 "root"/etc/passwd
+gerp -a 3 "root" /etc/passwd
